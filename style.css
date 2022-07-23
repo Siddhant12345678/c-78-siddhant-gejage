@@ -1,0 +1,14 @@
+  .background{
+    background-image: url("baby-cute-seamless-pattern-pink-girl-texture-kid-background-vector.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  h1{
+    color: rgb(255, 0, 187);
+  }
+  #changeme{
+    width: 100px;
+    background-color: blueviolet;
+    color:aliceblue ;
+  }
+  
